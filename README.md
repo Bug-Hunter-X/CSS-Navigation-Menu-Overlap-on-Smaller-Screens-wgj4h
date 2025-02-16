@@ -1,0 +1,1 @@
+This repository contains a CSS bug and its solution. The bug involves a navigation menu that overlaps the main content area on smaller screens.  The solution modifies the CSS to ensure proper responsiveness using media queries.
